@@ -1,4 +1,5 @@
 /Task 1/outputs/
 /Task 1/cache_dir/
 /Task 1/runs/
-
+/Task 1/GoogleNews-vectors-negative300.bin.gz
+/Task 1/gensim_word2vec_model.txt
